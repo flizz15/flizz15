@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=flizz15&data=followers,repositories,stars,commits&theme=darkmode">
   <a href="https://git.io/typing-svg">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=1200&pause=300&center=true&vCenter=true&multiline=true&repeat=false&width=520&height=100&lines=Hello%2C+I'm+Jan+Sadownik;Junior+Python+backend+developer" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=1200&pause=300&center=true&vCenter=true&multiline=true&repeat=false&width=520&height=100&lines=Hello%2C+I'm+Jan+Sadownik;Junior+Python+developer" alt="Typing SVG" /></a>
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 
   </summary>
 
-  Hello, I'm Jan Sadownik. I'm a 20yo self-taugh developer from Poland with a passion for coding in **[Python](https://www.python.org/)**. In my spare time, I enjoy coding side projects, playing saxophone, dress nicely and working on my homeserver.
+  Hello, I'm Jan Sadownik. I'm a 21yo self-taugh developer from Poland with a passion for coding in **[Python](https://www.python.org/)**. In my spare time, I enjoy coding side projects, playing saxophone, dress nicely and working on my homeserver.
 
 </details>
 
